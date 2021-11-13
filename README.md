@@ -1,7 +1,9 @@
 # simple-website
-ReadMe - SimpleWebsite:
-This is a simple website where we created using HTML, CSS, JavaScript and this will be interpreted by the browser such as Chrome.
-HTML: is the backbone of the website where we put the main elements or content of the website.
-CSS: is responsible for the style and layout of the website. Its’ role is to design the website in code efficient manner with less HTML coding.
-JavaScript: is responsible for the logic to make the functions work and connect the User Interface element into different uses of the website.
-With JavaScript, we used anchor tags to navigate pages.
+![image](https://user-images.githubusercontent.com/83717929/141599386-9ed61bfc-5b10-41f4-bc89-97f72872eb60.png)
+
+![screenshot1 About](https://user-images.githubusercontent.com/83717929/141599410-f35af3b0-4726-478b-aa03-c25514bce957.PNG)
+![screenshot1 Home](https://user-images.githubusercontent.com/83717929/141599411-ab999b28-a3ad-45dc-9cf4-d9b3e72429da.PNG)
+![screenshot3 Register](https://user-images.githubusercontent.com/83717929/141599412-306b0ec3-d2ef-400d-8c58-663964f290ca.PNG)
+![screenshot4 Login](https://user-images.githubusercontent.com/83717929/141599413-64fb1363-d431-4adc-bd62-80edd321db21.PNG)
+![VS screenshot5 simple website](https://user-images.githubusercontent.com/83717929/141599415-58aa7267-f3c2-4b07-bb4a-e0957528a57d.PNG)
+
