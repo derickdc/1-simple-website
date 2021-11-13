@@ -1,5 +1,5 @@
 # simple-website
-![image](https://user-images.githubusercontent.com/83717929/141599386-9ed61bfc-5b10-41f4-bc89-97f72872eb60.png)
+![image](https://user-images.githubusercontent.com/83717929/141600265-9e2680f7-7470-407a-9f20-8deae9fe7164.png)
 
 ![screenshot1 About](https://user-images.githubusercontent.com/83717929/141599410-f35af3b0-4726-478b-aa03-c25514bce957.PNG)
 ![screenshot1 Home](https://user-images.githubusercontent.com/83717929/141599411-ab999b28-a3ad-45dc-9cf4-d9b3e72429da.PNG)
